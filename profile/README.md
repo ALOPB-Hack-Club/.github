@@ -23,4 +23,8 @@ Nie zapomnijcie o zabraniu własnego sprzętu, żeby ułatwić dalszą pracę.
 > - podaj swoje imię i nazwisko jako nazwę użytkownika
 > - uzupełnij opis profilu (bio)
 
+### ⭐ Projekty klubowiczów
+- stronka grająca nuty [Szalone nuty](https://github.com/ALOPB-Hack-Club/szalone-nuty) - Jakub Rolak
+
+<!--Nie umieszczaj tekstu poniżej flagi-->
 ![flag orpheus left](https://assets.hackclub.com/flag-orpheus-left.svg)
