@@ -5,7 +5,11 @@ Nie ważne czy dopiero zaczynasz programować czy masz już jakieś doświadczen
 Spotkania w każdy wtorek od 9 do 10 godziny lekcyjnej (15:05-16:40) w sali 15B. 
 Nie zapomnijcie o zabraniu własnego sprzętu, żeby ułatwić dalszą pracę.
 
-[Dołącz do nas ➚](https://bit.ly/alopb-hackclub)
+[Zgłoszenia wstępne ➚](https://bit.ly/alopb-hackclub)
+
+Chcesz do społeczności Discord i uzyskać dostęp do materiałów na GitHubie?
+
+[Zweryfikuj konta klubowicza tutaj ➚](https://bit.ly/alopb-hackclub-onboarding)
 
 ### 👩‍💻 Pomocne zasoby
 
